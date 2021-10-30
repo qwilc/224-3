@@ -1,0 +1,2 @@
+language = "bash"
+run = "gcc -Wall y86-64.c utils.c"
